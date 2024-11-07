@@ -1,8 +1,6 @@
 # Welcome to the LTER GitHub Organization
 
-This meta-repository is meant to help with navigation of the repositories within this organization account. For more information on the LTER Network, please visit [our website](https://lternet.edu/).
-
-To group similar repositories together we make extensive use of GitHub "[topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics)" and try to use shared repository name components. Both of these--where applicable--are described below in the following sections.
+This meta-repository is meant to help with navigation of the repositories within this organization account. To group similar repositories together we make extensive use of GitHub "[topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics)" and try to use shared repository name components. Both of these--where applicable--are described below in the following sections.
 
 ### LTER Working Groups
 
@@ -12,8 +10,26 @@ _Topics:_ **`lter-science` & `synthesis-working-group` _or_ `sparc-group`**
 
 _Description:_ **Repositories created by/for LTER-funded working groups and SPARC groups (Scientific Peers Advancing Research Collaborations)**
 
+### Synthesis Skills for Early Career Researchers (SSECR)
+
+_Repository Name Prefix:_ **`ssecr`**
+
+_Topics:_ **`synthesis-science` & `synthesis-skills-for-early-career-researchers`**
+
+_Description:_ **Repositories related to the [SSECR course](https://lter.github.io/ssecr/). At this time (2024), primarily the course content repo itself and several repositories specific to the Synthesis Fellows' project groups**
 
 
+### Template
+
+_Repository Name Prefix:_ **``**
+
+_Topics:_ **``**
+
+_Description:_ ****
+
+`climhydro` | `documentation` | `education` | `eml-metadata` | `lter-imc` | `lter-science` | `lter-site-specific` | `scientific-computing` | `sparc-group` | `synthesis-working-group`
+
+There is also an `inactive` topic that we recommend adding to repositories without activity in the last 5 years (or so).
 
 # Basement
 
