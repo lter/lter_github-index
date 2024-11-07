@@ -18,6 +18,25 @@ _Topics:_ **`synthesis-science` & `synthesis-skills-for-early-career-researchers
 
 _Description:_ **Repositories related to the [SSECR course](https://lter.github.io/ssecr/). At this time (2024), primarily the course content repo itself and several repositories specific to the Synthesis Fellows' project groups**
 
+### Workshops
+
+_Repository Name Prefix:_ **`workshop-`**
+
+_Topics:_ **`education` & `workshop` & `synthesis-science`**
+
+_Description:_ **Repositories containing materials for a workshop. Note that the "[eco-data-synth-primer](https://github.com/lter/eco-data-synth-primer)" repository is also a workshop despite lacking that name prefix**
+
+### R Packages
+
+_Repository Name Prefix:_ N/A
+
+_Topics:_ **`data-science` & `r` & `r-package` & `lter-science`**
+
+_Description:_ **R packages developed by/at the LTER Network. No shared name prefix but use of topics should make them searchable**
+
+
+
+# Basement
 
 ### Template
 
