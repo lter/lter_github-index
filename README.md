@@ -2,6 +2,19 @@
 
 This meta-repository is meant to help with navigation of the repositories within this organization account. For more information on the LTER Network, please visit [our website](https://lternet.edu/).
 
+To group similar repositories together we make extensive use of GitHub "[topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics)" and try to use shared repository name components. Both of these--where applicable--are described below in the following sections.
+
+### LTER Working Groups
+
+Repository name prefix: `lterwg-` _or_ `lter-sparc-`
+Topics: `lter-science` & `synthesis-working-group` _or_ `sparc-group`
+Description: Repositories created by/for LTER-funded working groups and SPARC groups (Scientific Peers Advancing Research Collaborations)
+
+
+
+
+# Basement
+
 ## Information Managers (IMC) Committee Working Group Repositories ([all repos](https://github.com/search?q=topic%3Alter-imc+org%3Alter&type=Repositories))
 
 * [LTER Information Managers Executive Committee](https://github.com/lter/IMC_Exec)
