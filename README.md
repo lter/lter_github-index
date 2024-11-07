@@ -1,11 +1,6 @@
 # Welcome to the LTER GitHub Organization
-This meta-repository helps with navigation of the repositories under the organizational account 
-"LTER", belonging to
-the Long Term Ecological Research Network, funded by NSF
-([https://lternet.edu](https://lternet.edu/)).
-The  [LTER  program](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=7671) 
-is composed of 28 sites who apply long-term observation, experiments, and modeling to understand 
-how ecological systems function over decades. 
+
+This meta-repository is meant to help with navigation of the repositories within this organization account. For more information on the LTER Network, please visit [our website](https://lternet.edu/).
 
 ## Information Managers (IMC) Committee Working Group Repositories ([all repos](https://github.com/search?q=topic%3Alter-imc+org%3Alter&type=Repositories))
 
