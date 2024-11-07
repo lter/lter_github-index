@@ -6,9 +6,11 @@ To group similar repositories together we make extensive use of GitHub "[topics]
 
 ### LTER Working Groups
 
-Repository name prefix: `lterwg-` _or_ `lter-sparc-`
-Topics: `lter-science` & `synthesis-working-group` _or_ `sparc-group`
-Description: Repositories created by/for LTER-funded working groups and SPARC groups (Scientific Peers Advancing Research Collaborations)
+_Repository Name Prefix:_ `lterwg-` _or_ `lter-sparc-`
+
+_Topics:_ `lter-science` & `synthesis-working-group` _or_ `sparc-group`
+
+_Description:_ Repositories created by/for LTER-funded working groups and SPARC groups (Scientific Peers Advancing Research Collaborations)
 
 
 
