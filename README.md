@@ -70,6 +70,6 @@ _Description:_ **Repositories created by the LTER Scientific Computing team. For
 
 LTER has been funded by the National Science Foundation since 1980. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of NSF.
 
-![NSF 2024 Award](https://img.shields.io/badge/NSF-241938-blue.svg)
-![NSF 2019 Award](https://img.shields.io/badge/NSF-1929393-orange.svg)
-![NSF 2015 Award](https://img.shields.io/badge/NSF-1545288-orange.svg)
+![NSF 2024 Award](https://img.shields.io/badge/NSF%202024-241938-blue.svg)
+![NSF 2019 Award](https://img.shields.io/badge/NSF%202019-1929393-orange.svg)
+![NSF 2015 Award](https://img.shields.io/badge/NSF%202015-1545288-orange.svg)
