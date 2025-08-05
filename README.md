@@ -66,6 +66,16 @@ _Description:_ **Repositories created by the LTER Scientific Computing team. For
 
 ---
 
+### Survey-Processing Code
+
+_Repository Name Prefix:_ **`surveys_`**
+
+_Topic(s):_ **`survey-processing`, `survey-analysis`, `survey-visualization`**
+
+_Description:_ **Repositories created to process survey code (either recurring surveys or one-offs) and perform desired analysis/visualization**
+
+---
+
 ## Support
 
 LTER has been funded by the National Science Foundation since 1980. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of NSF.
