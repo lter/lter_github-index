@@ -1,8 +1,8 @@
-# Welcome to the LTER GitHub Organization
+# Welcome to the Index of the LTER GitHub Organization
 
-This meta-repository is meant to help with navigation of the repositories within this organization account. To group similar repositories together we make extensive use of GitHub "[topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics)" and try to use shared repository name components. Both of these--where applicable--are described below in the following sections.
+This meta-repository is meant to help with navigation of the repositories within this organization account. To group similar repositories together we make extensive use of GitHub "[topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics)" and try to use shared repository naming conventions. Both of these--where applicable--are described below in the following sections.
 
-While the description below includes the _primary_ groups of repositories, there are some topics that are in use that are not described. These include `documentation`, `climhydro`, `eml-metadata`, and `lter-site-specific`. There is also an `inactive` topic that we recommend adding to repositories without activity in the last 5 years (or so).
+While the description below includes the _primary_ groups of repositories, there are some topics that are in use that are not described. These are largely used on very old or inactive repositories.
 
 ---
 
@@ -10,7 +10,7 @@ While the description below includes the _primary_ groups of repositories, there
 
 _Repository Name Prefix:_ **`lterwg-` _or_ `lter-sparc-`**
 
-_Topic(s):_ **`lter-science` & `synthesis-working-group` _or_ `sparc-group`**
+_Topic(s):_ **`lter-science` & `cohort-20XX` & _either_ `synthesis-working-group` _or_ `sparc-group`**
 
 _Description:_ **Repositories created by/for LTER-funded working groups and SPARC groups (Scientific Peers Advancing Research Collaborations)**
 
@@ -73,6 +73,14 @@ _Repository Name Prefix:_ **`surveys_`**
 _Topic(s):_ **`survey-processing`, `survey-analysis`, `survey-visualization`**
 
 _Description:_ **Repositories created to process survey code (either recurring surveys or one-offs) and perform desired analysis/visualization**
+
+## Quarto Websites
+
+_Repository Name Prefix:_ **`N/A`**
+
+_Topic(s):_ **`quarto-website`**
+
+_Description:_ **Repositories that host Quarto websites.** That they are websites is secondary to whatever their primary purpose is but this label helps make maintaining all Quarto websites in this organization simpler (by rendering them searchable via the above topic label).
 
 ---
 
